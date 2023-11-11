@@ -22,7 +22,7 @@ Tuve mi primer encuentro con la creación de sitios web en en el año 2002 (Nets
 </p>
 
 <h2 align="center">SOFTWARE / PLATAFORMAS</h2>
-Adobe Indesign / 
+Adobe InDesign / 
 Adobe Illustrator / 
 Adobe Photoshop / 
 Strata 3D CX / 
@@ -35,14 +35,13 @@ SketchUp /
 <h2 align="center">LO QUE HAGO</h2>
 Logotipos / 
 Imagen Corporativa (Branding) / 
-User Experience (UX) / 
-Flyer / 
-Web / 
+User Experience (UX) / User Interface (UI) / 
+Flyers / 
+Sitios Web o Websites estáticos y dinámicos / 
 Packaging / 
-T-Shirt / 
+Playeras / 
 Tipografía / 
-Ilustración Digital / 
-Vectorización / 
+Ilustración Digital / Vectorización / 
 Animación en Flash / 
 Diseño Editorial / 
 Gestión de Bases de Datos SQL / 
@@ -51,3 +50,6 @@ Google Ads / Blueprint de Meta
 Posicionamiento Web SEO
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adanqz&border_radius=0&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450)](https://git.io/streak-stats)
+
+
+<hr>PS. I LOVE WOODWORK 🪚 
