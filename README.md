@@ -52,4 +52,4 @@ Posicionamiento Web SEO
 [![GitHub Streak](https://streak-stats.demolab.com?user=adanqz&border_radius=0&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450)](https://git.io/streak-stats)
 
 
-<hr>PS. I LOVE WOODWORK 🪚 
+<hr><small>PS. I LOVE WOODWORK 🪚 </small>
