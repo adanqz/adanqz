@@ -1,6 +1,6 @@
 <div align="center">👽👾👻🐕</div>
 <h1 align="center">¡Hola! Soy Adán Quintero</h1>
-<blockquote>"Somos polvo de estrellas, admirando las estrellas" - Carl Sagan</blockquote>
+<blockquote>"Si se puede medir, se puede optimizar"</blockquote>
 <hr>
 Tuve mi primer encuentro con la creación de sitios web en en el año 2002 (Netscape Communicator, FrontPage 2000), posteriormente lanzo un sitio de emulación de videojuegos con tecnología PHP y base de datos SQL (2005), ya después comienzo a estudiar sobre el PageRank de Google (2006) y a colocar mediante SEO, varios sitios en primeros lugares de Google.<br><br> 
 <ul>
